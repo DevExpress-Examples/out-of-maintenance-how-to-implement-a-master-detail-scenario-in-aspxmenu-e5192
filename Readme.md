@@ -9,6 +9,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement a master-detail scenario in ASPxMenu
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5192/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement a master-detail scenario using <strong>ASPxMenu</strong>.<br />
